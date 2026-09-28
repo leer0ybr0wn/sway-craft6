@@ -1,0 +1,17 @@
+dateModified: 1790590263
+meta:
+  __names__:
+    41ef2d2f-038c-4206-b693-8560ab9721a5: Sway # Sway
+    466365dd-8797-4ab9-b77c-2685f370011d: Sway # Sway
+system:
+  edition: solo
+  name: Sway
+  schemaVersion: 6.0.0.9
+  timeZone: UTC
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
